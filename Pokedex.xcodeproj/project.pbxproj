@@ -15,6 +15,7 @@
 		83A98FD91C24CF0000E2E2A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83A98FD71C24CF0000E2E2A3 /* LaunchScreen.storyboard */; };
 		83A98FE41C24CF0000E2E2A3 /* PokedexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A98FE31C24CF0000E2E2A3 /* PokedexTests.swift */; };
 		83A98FEF1C24CF0000E2E2A3 /* PokedexUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83A98FEE1C24CF0000E2E2A3 /* PokedexUITests.swift */; };
+		83A98FFD1C24D18800E2E2A3 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 83A98FFC1C24D18800E2E2A3 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		83A98FEA1C24CF0000E2E2A3 /* PokedexUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokedexUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83A98FEE1C24CF0000E2E2A3 /* PokedexUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexUITests.swift; sourceTree = "<group>"; };
 		83A98FF01C24CF0000E2E2A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83A98FFC1C24D18800E2E2A3 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = pokemon.csv; path = Pokedex/pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				83A98FE21C24CF0000E2E2A3 /* PokedexTests */,
 				83A98FED1C24CF0000E2E2A3 /* PokedexUITests */,
 				83A98FC91C24CF0000E2E2A3 /* Products */,
+				83A98FFC1C24D18800E2E2A3 /* pokemon.csv */,
 			);
 			sourceTree = "<group>";
 		};
@@ -234,6 +237,7 @@
 			files = (
 				83A98FD91C24CF0000E2E2A3 /* LaunchScreen.storyboard in Resources */,
 				83A98FD61C24CF0000E2E2A3 /* Assets.xcassets in Resources */,
+				83A98FFD1C24D18800E2E2A3 /* pokemon.csv in Resources */,
 				83A98FD11C24CF0000E2E2A3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
